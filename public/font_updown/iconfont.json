@@ -1,0 +1,23 @@
+{
+  "id": "3527533",
+  "name": "vue_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30175718",
+      "name": "Arrow-down",
+      "font_class": "Arrow-down",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "30175721",
+      "name": "Arrow-up",
+      "font_class": "Arrow-up",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
